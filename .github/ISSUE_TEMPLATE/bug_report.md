@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
+**Information:**
  - OS: [e.g. iOS 16, iPadOS 16, macOS Ventura, Android 13 Windows 11]
  - Browser [e.g. Chrome, Safari]
  - Web Version ([Find here](https://github.com/Hutoorg/My-Info/releases)) [e.g. 22 OR 1, 2, 3, 4, 5 OR 1-10]
