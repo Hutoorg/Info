@@ -1,0 +1,16 @@
+@import url('https://v1.fontapi.ir/css/SFProDisplay:300;400;500;600');
+
+* {
+    font-family: SF Pro Display, sans-serif;
+    text-align: center;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 500;
+}
+
+p a {
+    font-size: 28;
+    font-weight: 400;
+}
