@@ -14,3 +14,14 @@ p a {
     font-size: 28;
     font-weight: 400;
 }
+
+a {
+    color: black;
+    text-decoration-line: none;
+    transition: 0.9s;
+}
+
+a:hover {
+    text-decoration-line: underline;
+    color: #468cf7;
+}
