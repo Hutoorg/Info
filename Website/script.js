@@ -6,7 +6,7 @@ const myData = {
     "age": "Age: " + 15,
     "twitterHandle": "Twitter: @Twitter",
     "youtubeHandle": "YouTube: @YouTube",
-
+    // Hyperlink
     "twitterLink": "//twitter.com/twitter",
     "youtubeLink": "//youtube.com/@YouTube"
 }
